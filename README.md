@@ -32,10 +32,14 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [Acknowledgments](#acknowledgments)
 
 ## Short description
-
+Learncha is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+ - According to UNICEF Even though primary education is officially free and compulsory, about 10.5 million of the country’s children aged 5-14 years are not in school ?!
+
+- The education deprivation in northern Nigeria is driven by various factors, including economic barriers, climatic, socio-cultural norms and practices that 
+discourage attendance in formal education, especially for girls.
+
 
 ### How can technology help?
 
@@ -43,7 +47,7 @@ Schools and teachers can continue to engage with their students through virtual 
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Learncha is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning
 
 ## Demo video
 
@@ -64,15 +68,12 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Project roadmap
 
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
-
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
+##### Learncha currently does the following:
+- online and offline learning resources
+- immersive learning platform for kids using gaming to teach children in remote communities on climate
+- A climate challenge can be created and get people around the world to join and solve climate problems around the world.
+#### it currently runs on IBM Cloud Foundary.
+#### See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
 ![Roadmap](./images/roadmap.jpg)
 
