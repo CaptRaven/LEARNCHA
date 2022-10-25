@@ -69,7 +69,7 @@ Learncha is an online and offline learning resources and a more immersive learni
 #### it currently runs on IBM Cloud Foundary.
 #### See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](./images/roadmap.png)
 
 ## Getting started
 
