@@ -6,7 +6,7 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
+- [Learncha](#LEARNCHA)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -29,15 +29,15 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 Learncha is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning
 ### What's the problem?
 
- - According to UNICEF Even though primary education is officially free and compulsory, about 10.5 million of the country’s children aged 5-14 years are not in school ?!
-
+ - Nigeria now has about 20 million out of school children according to the latest global data on out of school children by the United Nations Educational Scientific and Cultural Organization (UNESCO). According to UNESCO Institute for Statistic (UIS) and Global Education Monetary (GEM) report the education deprivation in Nigeria is driven by economic barriers, climatic and socio cultural norms and practices especially in poor marginalized communities.
+ 
 - The education deprivation in northern Nigeria is driven by various factors, including economic barriers, climatic, socio-cultural norms and practices that 
 discourage attendance in formal education, especially for girls.
 
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Access to quality education for children is deprived by economic barrier, climatic and socio cultural norms and practices. With technology the barriers to learning for kids will be bridged and the overall learning experience will be increased for outside classroom. This will be a milestone in changing overall the access to quality of education in disadvantaged remote communities
 
 ### The idea
 
@@ -51,10 +51,10 @@ Learncha is an online and offline learning resources and a more immersive learni
 
 ![Video transcription/translation app](https://github.com/CaptRaven/LEARNCHA/blob/main/images/User%20(1).png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user navigates to the site 
+2. the platform is hosted on cloudinary
+3. IBM TWC fetches weather information
+4. PostgreSQL is used for database management.
 
 ## Long description
 
@@ -64,8 +64,17 @@ Learncha is an online and offline learning resources and a more immersive learni
 
 ##### Learncha currently does the following:
 - online and offline learning resources
-- immersive learning platform for kids using gaming to teach children in remote communities on climate
+- immersive learning platform for kids using gaming to teach children in remote communities on climate,
+  the games include:
+   - tetris
+  - Spellz
+  - Spelling Bee
+  - 2048
+ - to enhance child learning experience
 - A climate challenge can be created and get people around the world to join and solve climate problems around the world.
+-Dictionary platform to check meaning of words and learn new words
+-Quiz platform to help children answer trivia questions and earn sharable points
+-It also has the book platform which has readable contents ranging from grade 1-6
 #### it currently runs on IBM Cloud Foundary.
 #### See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
