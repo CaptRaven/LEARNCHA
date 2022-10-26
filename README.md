@@ -21,7 +21,6 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [Built with](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
-  - [Authors](#authors)
   - [License](#license)
 
 
