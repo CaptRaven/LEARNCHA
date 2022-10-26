@@ -49,7 +49,7 @@ Learncha is an online and offline learning resources and a more immersive learni
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Video transcription/translation app](https://github.com/CaptRaven/LEARNCHA/blob/main/images/User%20(1).png)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
