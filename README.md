@@ -87,6 +87,7 @@ Online
 - [PostgreSQL](https://www.postgresql.org/) - Database management system
 - [Cloudinary](https://cloudinary.com/documentation) - Object Storage
 - [FASTAPI](https://fastapi.tiangolo.com/) - Python Web API used 
+- [Text-To-Speech](https://fastapi.tiangolo.com/) - API used for text to speech  
 
 Offline
 - [trivia API](https://the-trivia-api.com/) - API used for Trivia quiz
