@@ -39,11 +39,11 @@ Learncha is an online and offline learning resources and a more immersive learni
 
 ## Demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://www.youtube.com/watch?v=hI54VopbpZI)
 
 ## The architecture
 
-![Video transcription/translation app](https://github.com/CaptRaven/LEARNCHA/blob/main/images/User%20(1).png)
+![Video transcription/translation app](https://github.com/CaptRaven/LEARNCHA/blob/)
 
 1. The user navigates to the site 
 2. the platform is hosted on cloudinary
@@ -77,6 +77,8 @@ Learncha is an online and offline learning resources and a more immersive learni
 ## Live demo
 
 You can find a running system to test at [learncha.vercel.app](https://learncha.vercel.app).
+OFFLINE DEMO LINK [learncha-offline](https://github.com/farex4sure/learncha_ussd) [simulator sandbox at](https://simulator.africastalking.com/) USSD CODE-*384*220022#
+
 
 See the "long description" field in our submission (not in this repo) for the log-in credentials.
 
