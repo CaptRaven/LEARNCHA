@@ -16,13 +16,8 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [License](#license)
-
 
 ## Short description
 Learncha is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning
@@ -65,10 +60,9 @@ Learncha is an online and offline learning resources and a more immersive learni
 - online and offline learning resources
 - immersive learning platform for kids using gaming to teach children in remote communities on climate,
   the games include:
-   - tetris
-  - Spellz
-  - Spelling Bee
-  - 2048
+  - 4 Pics One Word
+  - Memory Boxes
+  - Math And Climate
  - to enhance child learning experience
 - A climate challenge can be created and get people around the world to join and solve climate problems around the world.
 -Dictionary platform to check meaning of words and learn new words
@@ -78,12 +72,6 @@ Learncha is an online and offline learning resources and a more immersive learni
 #### See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
 ![Roadmap](./images/roadmap.png)
-
-## Getting started
-
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [react-app](./sample-react-app/)
 
 
 ## Live demo
@@ -105,20 +93,4 @@ Offline
 - [Dictionary API](https://api.dictionaryapi.dev/api/v2/entries/en/word) - Used to fetch meaning of words
 - [MySQL]() - Database management system used
 - [Thesaurus API](https://api.api-ninjas.com/v1/thesaurus?word=<word>) - APi used to fetch Thesaurus
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning.
-
-
-
-
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
