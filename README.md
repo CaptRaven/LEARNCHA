@@ -77,7 +77,7 @@ Learncha is an online and offline learning resources and a more immersive learni
 ## Live demo
 
 You can find a running system to test at [learncha.vercel.app](https://learncha.vercel.app).
-OFFLINE DEMO LINK [learncha-offline](https://github.com/farex4sure/learncha_ussd) [simulator sandbox at](https://simulator.africastalking.com/) USSD CODE-*384*220022#
+OFFLINE DEMO LINK [learncha-offline](https://github.com/farex4sure/learncha_ussd) simulator sandbox-(https://simulator.africastalking.com/) USSD CODE-*384*220022#
 [Android APK file] - (https://drive.google.com/drive/folders/1PEd1w896QDc1zdrMJEORP88QU2eQbE8m)
 
 
