@@ -83,8 +83,8 @@ Learncha is an online and offline learning resources and a more immersive learni
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
+- [react-app](./sample-react-app/)
+
 
 ## Live demo
 
