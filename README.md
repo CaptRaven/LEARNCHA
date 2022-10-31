@@ -85,7 +85,6 @@ In this section you add the instructions to run your project on your local machi
 
 - [sample-react-app](./sample-react-app/)
 - [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
 ## Live demo
 
